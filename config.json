@@ -1,1 +1,11 @@
-ndjd
+{
+    "botToken": "YOUR_TOKEN_BOT",
+    "clientId": "BOT_CLIENT",
+    "userToken": "YOUR_TOKEN",
+    "prefix": "!",
+    "serverTarget": "1083698573272678400",
+    "channelIdr": "1083704905035952210",
+    "channelIntl": "1452318210966946073",
+    "watermark": "discord.gg/yourlink",
+    "scrapeIntervalMins": 30
+}
